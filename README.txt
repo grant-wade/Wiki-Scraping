@@ -1,7 +1,6 @@
 
-Author: Grant Wade (grant.wade@wsu.edu)
+Author: Grant Wade (grant@gwade.co)
 Project: Wikipedia Scraping
-Due Date: September 15, 2017
 
 Usage:
     Simple test that collects information from all the pages in the 
