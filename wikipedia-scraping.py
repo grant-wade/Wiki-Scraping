@@ -1,6 +1,6 @@
 """Scrapes data off of a wikipedia category collecting, a summary, image and page categories"""
 # ======================================= #
-# Author: Grant Wade (grant.wade@wsu.edu) #
+# Author: Grant Wade (grant@gwade.co)     #
 # wikipedia-scraping.py scrapes data off  #
 # of wikipedia using their API            #
 # ======================================= #
